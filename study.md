@@ -164,17 +164,22 @@ If you notice anything interesting, write it down - ask your questions in slack!
 What are the benefits of using ember inspector?
 
 ```md
-<!-- your answer here -->
+The various tabs allow you to see the different parts of the web app.
+Find version information for the librarys in the Ember app using the info tab.
+All of the view states can be seen using the view tree tab and can also view components.
+Cna view all of the routes also and their objects and controllers.
+To see each model instance that's create by the app and its properties, you can use the data tab.
+The deprecations tabs acts as the linter for the ember code, and gives warnings.
+
 ```
 
 Which tab would you use to debug an error involving a model's attribute value?
 
 ```md
-<!-- your answer here -->
+The deprecations tab will show linter errors but to view the model use the data tab.
 ```
 
 What is the URL to download ember inspector for chrome?
 
 ```md
-<!-- your answer here -->
-```
+https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en```
