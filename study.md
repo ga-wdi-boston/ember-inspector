@@ -164,17 +164,17 @@ If you notice anything interesting, write it down - ask your questions in slack!
 What are the benefits of using ember inspector?
 
 ```md
-<!-- your answer here -->
+The ember inspector allows us to see the different parts of the mber apllication separated by themain concerns of Ember. Info gives us information about the versions of the libraries and the Ember inspector itself. Tree shows all of the different view states in the application, Routes shows all of the routes in the app, Data shows every model instance created by the application with its properties and Deprectations acts as a linter and gives warnings about the Ember code.
 ```
 
 Which tab would you use to debug an error involving a model's attribute value?
 
 ```md
-<!-- your answer here -->
+Deprecations acts as a linter and gives you warnings if there are any bugs or errors with the model attribute.
 ```
 
 What is the URL to download ember inspector for chrome?
 
 ```md
-<!-- your answer here -->
+https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en
 ```
