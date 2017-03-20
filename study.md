@@ -164,17 +164,18 @@ If you notice anything interesting, write it down - ask your questions in slack!
 What are the benefits of using ember inspector?
 
 ```md
-<!-- your answer here -->
+Allows a developer to have access to multiple tools to debug ember related bugs,
+issues, or simly improve their views.
 ```
 
 Which tab would you use to debug an error involving a model's attribute value?
 
 ```md
-<!-- your answer here -->
+Data tab.
 ```
 
 What is the URL to download ember inspector for chrome?
 
 ```md
-<!-- your answer here -->
+https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi
 ```

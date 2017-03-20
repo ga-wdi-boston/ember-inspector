@@ -1,0 +1,1 @@
+/Users/MD/wdi/studies/ember-inspector/app/components/list-filter.js

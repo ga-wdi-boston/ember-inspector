@@ -1,0 +1,1 @@
+{"modulePrefix":"super-rentals","environment":"test","rootURL":"/","locationType":"none","EmberENV":{"FEATURES":{}},"APP":{"LOG_ACTIVE_GENERATION":false,"LOG_VIEW_LOOKUPS":false,"rootElement":"#ember-testing","name":"super-rentals","version":"0.0.0+c980731e"},"ember-cli-mirage":{"usingProxy":false,"useDefaultPassthroughs":true},"exportApplicationGlobal":true}
