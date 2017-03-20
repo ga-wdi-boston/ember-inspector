@@ -164,17 +164,17 @@ If you notice anything interesting, write it down - ask your questions in slack!
 What are the benefits of using ember inspector?
 
 ```md
-<!-- your answer here -->
+<!-- It gives you a look at more detail into the structure of your front end then the normal inspector. It breaks down the software piece by piece so you can see it from the client side and how it works from the user point of view. -->
 ```
 
 Which tab would you use to debug an error involving a model's attribute value?
 
 ```md
-<!-- your answer here -->
+<!-- It would be a combination of tabs, but for the most detailed part of the breakdown I would use deprecations tab.  -->
 ```
 
 What is the URL to download ember inspector for chrome?
 
 ```md
-<!-- your answer here -->
+<!-- https://chrome.google.com/webstore/search/ember%20inspector -->
 ```
