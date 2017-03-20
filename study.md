@@ -164,17 +164,27 @@ If you notice anything interesting, write it down - ask your questions in slack!
 What are the benefits of using ember inspector?
 
 ```md
-<!-- your answer here -->
+allows you to see the different routes and inspect them.
+also it is easier to debug and see the structure of the page.
+
+"Ember Inspector allows us to send various objects to the console which we can
+save as global variables and then use for various purposes to debug the app on
+the go, check different behaviors and test the security of the app"
+
+https://medium.com/@martinmalinda/advanced-usage-of-ember-inspector-9f018c273b0f#.ejh8d7x24
+
 ```
 
 Which tab would you use to debug an error involving a model's attribute value?
 
 ```md
-<!-- your answer here -->
+in the data tab
+
 ```
 
 What is the URL to download ember inspector for chrome?
 
 ```md
-<!-- your answer here -->
+https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi
+
 ```
