@@ -164,17 +164,23 @@ If you notice anything interesting, write it down - ask your questions in slack!
 What are the benefits of using ember inspector?
 
 ```md
-<!-- your answer here -->
+The Ember Inspector is able to perform several use functions when developing with an Ember app such as:
+- Represent data being displayed from a loaded model as a clean table
+- Show your application's routes including information about nesting
+- Break a page down into views and components; also includes nesting info.
+- Show general information about the ember app such as version
+- Lint your code by showing any deprecations you may be using
+- Report performance metrics
 ```
 
 Which tab would you use to debug an error involving a model's attribute value?
 
 ```md
-<!-- your answer here -->
+I would use the `Data` tab to debug an error related to the value of one of my model attributes. The `Data` tab should make it easy to see if my model instance the value I expect.
 ```
 
 What is the URL to download ember inspector for chrome?
 
 ```md
-<!-- your answer here -->
+https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi
 ```
