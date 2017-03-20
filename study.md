@@ -164,17 +164,18 @@ If you notice anything interesting, write it down - ask your questions in slack!
 What are the benefits of using ember inspector?
 
 ```md
-<!-- your answer here -->
+The ability to inspect your code in the browser in real time while editing.
+Routes tree
 ```
 
 Which tab would you use to debug an error involving a model's attribute value?
 
 ```md
-<!-- your answer here -->
+Model
 ```
 
 What is the URL to download ember inspector for chrome?
 
 ```md
-<!-- your answer here -->
+You can just google "ember chrome inspector", and then download the plugin that shows up in the very first google link. Yay interwebs!
 ```
