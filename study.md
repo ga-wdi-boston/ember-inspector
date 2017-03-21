@@ -164,17 +164,17 @@ If you notice anything interesting, write it down - ask your questions in slack!
 What are the benefits of using ember inspector?
 
 ```md
-<!-- your answer here -->
+The benefits of using the ember inspector are many. It allows the developer to examine different view states along with individual templates that they contain. It also allows you to view all of the routes in the application that are available to the user. Using the data tab, one can view data that specific models contain within ember. Finally, the depreciations tab acts like a linter for your ember application alerting the developer of potentially outdated syntax. Overall the inspector seems extremely useful and I'm excited to utitilize it during my final project.
 ```
 
 Which tab would you use to debug an error involving a model's attribute value?
 
 ```md
-<!-- your answer here -->
+The data tab
 ```
 
 What is the URL to download ember inspector for chrome?
 
 ```md
-<!-- your answer here -->
+https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en
 ```
