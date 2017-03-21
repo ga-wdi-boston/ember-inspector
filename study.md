@@ -164,17 +164,20 @@ If you notice anything interesting, write it down - ask your questions in slack!
 What are the benefits of using ember inspector?
 
 ```md
-<!-- your answer here -->
+I just found out that this tool will be a life saver. I can see stages of views
+and in what part of layout are on the left side. Names of templates.
+Also how many and which routes the app has. What versions of libraries I have. What
+models I store under data.
 ```
 
 Which tab would you use to debug an error involving a model's attribute value?
 
 ```md
-<!-- your answer here -->
+Data - I would click on rental(3)
 ```
 
 What is the URL to download ember inspector for chrome?
 
 ```md
-<!-- your answer here -->
+(https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
 ```
