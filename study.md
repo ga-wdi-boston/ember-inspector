@@ -164,17 +164,20 @@ If you notice anything interesting, write it down - ask your questions in slack!
 What are the benefits of using ember inspector?
 
 ```md
-<!-- your answer here -->
+It breaks down all the different parts of the Ember app *beautifully* omg
+It feels easier to navigate than the regular inspector like everything is
+really clearly labelled and easy to use
+You can even file an issue on it if something goes amiss holy crap
 ```
 
 Which tab would you use to debug an error involving a model's attribute value?
 
 ```md
-<!-- your answer here -->
+Probably either View Tree or Data
 ```
 
 What is the URL to download ember inspector for chrome?
 
 ```md
-<!-- your answer here -->
+https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en
 ```
