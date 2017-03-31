@@ -1,0 +1,1 @@
+/Users/Colin/wdi/training/ember/ember-inspector/app/helpers/rental-property-type.js
