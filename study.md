@@ -164,17 +164,17 @@ If you notice anything interesting, write it down - ask your questions in slack!
 What are the benefits of using ember inspector?
 
 ```md
-<!-- your answer here -->
+To make one view shows up, it may go throught 4 or 5 files. Ember layer will mess a developer up. But ember inspector can show all relative info without check up all the files one by one.
 ```
 
 Which tab would you use to debug an error involving a model's attribute value?
 
 ```md
-<!-- your answer here -->
+Data and console.
 ```
 
 What is the URL to download ember inspector for chrome?
 
 ```md
-<!-- your answer here -->
+https://chrome.google.com/webstore/category/apps
 ```
