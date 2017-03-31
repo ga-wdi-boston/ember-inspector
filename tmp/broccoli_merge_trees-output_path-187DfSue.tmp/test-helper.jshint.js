@@ -1,0 +1,1 @@
+/Users/Colin/wdi/training/ember/ember-inspector/tmp/broccoli_merge_trees-input_base_path-Dj3nz1Is.tmp/test-helper.jshint.js

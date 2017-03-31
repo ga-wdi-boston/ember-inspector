@@ -1,0 +1,1 @@
+/Users/Colin/wdi/training/ember/ember-inspector/tmp/funnel-input_base_path-Zs4OFMHU.tmp/index.js
